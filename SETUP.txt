@@ -1,0 +1,5 @@
+Setup:
+1) Upload README.md to a repository named exactly as your GitHub username.
+2) Upload the assets folder to the root of the same repository.
+3) Replace YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN, YOUR_KAGGLE, and YOUR_PORTFOLIO.
+4) Update the featured project names/links if needed.
